@@ -1,0 +1,5 @@
+begin:
+regexp: ^\* bulleted, gggg
+regexp: ^\* simply numbered
+regexp: ^\* hierarchically numbered
+end:
