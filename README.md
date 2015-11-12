@@ -1,4 +1,4 @@
-# map-tube-testers
+# synopsis
 
 [Outthentic](https://github.com/melezhik/outthentic) tests for Text::Autoformat
 
