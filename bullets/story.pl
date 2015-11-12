@@ -1,7 +1,7 @@
 use Text::Autoformat;
 
 
-print autoformat { lists => 'bullet' }, <<HERE;
+print autoformat <<HERE, { lists => 'bullet' };
 * bulleted,
  gggg
 * simply numbered (i.e. 1., 2., 3., etc.), or
