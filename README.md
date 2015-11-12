@@ -1,6 +1,6 @@
 # map-tube-testers
 
-automatic tests for Text::Autoformat
+[outthentic](https://github.com/melezhik/outthentic) tests for Text::Autoformat
 
 
 # install
