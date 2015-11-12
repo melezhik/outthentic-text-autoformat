@@ -1,0 +1,6 @@
+begin:
+regexp:^R3>\s{5,5}Now is the Winter of our discontent made glorious Summer by this
+regexp:^R3>\s{5,5}son of York\. And all the clouds that lour'd upon  our  house  In
+regexp:^R3>\s{5,5}the deep bosom of the ocean buried\.
+end:
+
